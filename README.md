@@ -1,2 +1,2 @@
-# Frontent-Bootcamp-Bootsrap
+# Frontend-Bootcamp-Bootsrap
 An example of webpage designed with bootsrap
